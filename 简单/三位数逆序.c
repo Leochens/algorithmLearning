@@ -12,7 +12,7 @@ Please enter a positive integer: 345
 main()
 {
     int x;
-    printf("Please enter a positive integer:");
+    printf("Please enter a positive integer: ");
     scanf("%d",&x);
     int b,s,g;
     b = x/100;
