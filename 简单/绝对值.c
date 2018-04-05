@@ -15,3 +15,21 @@ main()
     scanf("%d",&x);
     printf("|x|=%d\n",abs(x));
 }
+
+
+/* 
+
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Input a float number:");
+    float x;
+    scanf("%f",&x);
+
+    printf("Absolute value of x is %f\n",x<0?-x:x);
+    
+    return 0;
+}
+ */
