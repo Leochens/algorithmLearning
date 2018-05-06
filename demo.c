@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-void swap(int *a,int *b){int t=*a;*a=*b;*b=t;}
+void swap(int *a,int *b){int t=*a;*a=*b;*b=t;} 
 void print(int *a,int len)
 {
     int i;
